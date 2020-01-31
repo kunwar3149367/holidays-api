@@ -1,0 +1,31 @@
+[{
+        "name": "new year's day",
+        "date": 1,
+        "month": "january",
+        "type": "public"
+    }, {
+        "name": "Makkar Sankranti",
+        "date": 15,
+        "month": "january",
+        "type": "flexible"
+    }, {
+        "name": "maha shivratri",
+        "date": 21,
+        "month": "february",
+        "type": "flexible"
+    }, {
+        "name": "holi",
+        "date": 10,
+        "month": "march",
+        "type": "public"
+    }, {
+        "name": "ndr",
+        "date": 19,
+        "month": "june",
+        "type": "flexible"
+    }, {
+        "name": "rb",
+        "date": 3,
+        "month": "august",
+        "type": "public"
+    }]
